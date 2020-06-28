@@ -1,0 +1,11 @@
+{
+    "name": "Design pattern PHP",
+    "type": "library",
+    "license": "mit",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
