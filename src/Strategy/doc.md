@@ -22,7 +22,7 @@ The example code is for a simple SimUDuck app
     $duck->display();
     $duck->swim();
     
-   // model duck don't know how to fly a creation 
+   // model duck don't know how to fly at creation 
     $model = new ModelDuck();
     $model->fly();
     $model->quack();
