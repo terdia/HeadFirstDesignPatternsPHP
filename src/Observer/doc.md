@@ -10,7 +10,7 @@ Defines a one-to-many dependency between objects so that when one objects change
 
 ### Usage: 
 
-The example code is for Weather monitoring station (Head first design patterns - Page 38)
+The example code is for Weather monitoring station
 
 ```php
     use App\Observer\Weather\CurrentConditionDisplay;
