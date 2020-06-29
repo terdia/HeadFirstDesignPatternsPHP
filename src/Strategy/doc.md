@@ -9,7 +9,7 @@ Defines a family of algorithms, encapsulate each one and make them interchangeab
 
 ### Usage: 
 
-The example code is for a simple SimUDuck app (Head first design patterns - Page 2)
+The example code is for a simple SimUDuck app
 
 ```php
     use App\Strategy\Duck\FlyRocketPowered;
